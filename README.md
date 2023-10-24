@@ -23,6 +23,6 @@ The **Fake Covid Tweet Classification System** is a robust solution for sentimen
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/itz-abhay/fake-covid-tweet-classification.git
+git clone https://github.com/itz-abhay/Fake-Covid-Tweet-Classification-System
 cd fake-covid-tweet-classification
 pip install -r requirements.txt
